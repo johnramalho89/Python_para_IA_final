@@ -8,6 +8,5 @@ print("2" * len(palavraCompleta)) """
 
 entrada = input("Digite um texto': ")
 
-ultimo = len(entrada) - 1 finallyf
-finally
+ultimo = len(entrada) - 1
 print(f"o Último caracter da palavra é {entrada[ultimo]}")
